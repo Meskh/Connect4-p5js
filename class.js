@@ -1,0 +1,5 @@
+class Token {
+    constructor(column, ) {
+
+    }
+}
