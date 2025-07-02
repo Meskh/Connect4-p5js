@@ -13,12 +13,13 @@ A classic Connect 4 game built with p5.js — drop red and yellow discs into a 7
 📂 Project Structure
 
 Connect4-p5js/   
- └── README.md            # ← You’re here
-  docs/   
-    ├── index.html           # Entry point; loads p5.js and sketch.js
-    ├── sketch.js            # Core game logic (board setup, draw loop, win checking)
-    ├── Modak-Regular.otf    # Custom font for in-game text
-    
+└── README.md            # ← You’re here
+docs/   
+  ├── index.html           # Entry point; loads p5.js and sketch.js
+  ├── sketch.js            # Core game logic (board setup, draw loop, win checking)
+  ├── Modak-Regular.otf    # Custom font for in-game text
+
+
 ⸻
 
 🎮 How It Works
@@ -42,7 +43,7 @@ A 2D array, board[7][6], holds "E" (empty), "R" (red), or "Y" (yellow).
 🛠️ Built With
 	•	p5.js v1.4.0
 	•	JavaScript (ES6+)
-	•	HTML5 
+	•	HTML5
 
 ⸻
 
@@ -57,5 +58,5 @@ A 2D array, board[7][6], holds "E" (empty), "R" (red), or "Y" (yellow).
 👤 Author
 
 Alexander Meskhi
-– GitHub: [meskh](https://github.com/Meskh)
-– Linkedin: [Aleksandre Meskhi](https://www.linkedin.com/in/aleksandre-meskhi/)
+– GitHub: meskh
+– LinkedIn: Aleksandre Meskhi
