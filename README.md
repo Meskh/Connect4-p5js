@@ -2,25 +2,23 @@
 
 A classic Connect 4 game built with p5.js — drop red and yellow discs into a 7×6 grid, line up four in a row to win!
 
-⸻
+
 
 # 📺 Live Demo
 
 ▶️ https://meskh.github.io/Connect4-p5js/
 
-⸻
 
 # 📂 Project Structure
 
-Connect4-p5js/  
-  └── README.md            # ← You’re here  
-  docs/   
-    ├── index.html           # Entry point; loads p5.js and sketch.js  
-    ├── sketch.js            # Core game logic (board setup, draw loop, win checking)  
-    ├── Modak-Regular.otf    # Custom font for in-game text  
+Connect4-p5js/
+  - Readme.md                 # ← You’re here  
+  - docs/ 
+    - index.html              # Entry point; loads p5.js and sketch.js  
+    - sketch.js               # Core game logic (board setup, draw loop, win checking) 
+    - Modak-Regular.otf       # Custom font for in-game text
 
 
-⸻
 
 # 🎮 How It Works
 ## Board Representation 
@@ -38,14 +36,14 @@ Connect4-p5js/
 	•	The board scales to windowHeight/10 per cell.  
 	•	windowResized() ensures the canvas and layout adapt to viewport changes.  
 
-⸻
+
 
 # 🛠️ Built With
 	•	p5.js v1.4.0
 	•	JavaScript (ES6+)
 	•	HTML5
 
-⸻
+
 
 # 💭 Future Improvements
 	•	Add multiplayer over WebSockets
@@ -53,10 +51,10 @@ Connect4-p5js/
 	•	Mobile-friendly touch controls
 	•	Customizable board sizes and win lengths
 
-⸻
+
 
 ## 👤 Author
 
-Alexander Meskhi
+Aleksandre Meskhi
 – GitHub: meskh
 – LinkedIn: Aleksandre Meskhi
